@@ -1,0 +1,15 @@
+{
+  "name": "data-challenge",
+  "version": "1.0.0",
+  "description": "Data Structures Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "jest --silent"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
